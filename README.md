@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AnkithaPoojary70
--
-- 🌱 I’m currently learning AIDS
-- 💞️ I’m looking to collaborate on App development
+-🌱 I’m currently learning Artificial Intelligence
 - 📫 How to reach me ...@ankipoojary7019@gmail.com
 - 
 <!---
